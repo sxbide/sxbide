@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sebastian!
 
-I'm a self-taught developer from **Carinthia, Austria**, currently 20 years old and loving the world of code.
+I'm a self-taught developer from **Carinthia, Austria**, currently 20 years old.
 
 ---
 
